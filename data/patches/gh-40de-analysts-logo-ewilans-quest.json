@@ -1,0 +1,82 @@
+{
+	"id": -1,
+	"name": "Analyst's logo Ewilan's Quest",
+	"description": "The logo from the Analyst guild in the french book series \"La Quête d'Ewilan\"",
+	"links": {
+		"website": [
+			"https://www.andarta-pictures.com/fr/productions/la-quete-d-ewilan.html"
+		],
+		"subreddit": [
+			"EwilansQuest"
+		],
+		"discord": [
+			"PpUbD6M8YA"
+		]
+	},
+	"path": {
+		"211": [
+			[
+				912,
+				-269
+			],
+			[
+				893,
+				-269
+			],
+			[
+				894,
+				-261
+			],
+			[
+				889,
+				-260
+			],
+			[
+				889,
+				-256
+			],
+			[
+				890,
+				-255
+			],
+			[
+				891,
+				-254
+			],
+			[
+				898,
+				-248
+			],
+			[
+				901,
+				-248
+			],
+			[
+				905,
+				-249
+			],
+			[
+				902,
+				-251
+			],
+			[
+				912,
+				-251
+			],
+			[
+				911,
+				-262
+			],
+			[
+				911,
+				-268
+			]
+		]
+	},
+	"center": {
+		"211": [
+			902,
+			-260
+		]
+	}
+}
